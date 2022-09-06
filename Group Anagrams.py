@@ -8,5 +8,5 @@ def GroupAnagram(strs):
     return answer.values()
 
 if __name__ in '__main__':
-    sequence=["eat","tea","tan","ate","nat","bat"]
+    sequence=["nat","tea","tan","ate","nat","bat"]
     print(GroupAnagram(sequence))
